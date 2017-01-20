@@ -1,1 +1,1 @@
-# WikiFriends
+# Side Projects
